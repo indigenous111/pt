@@ -1,0 +1,14 @@
+org\indigenous\pt\config\WebConfigurer.class
+org\indigenous\pt\service\DatabaseCreationService.class
+org\indigenous\pt\converter\ProjectConverter.class
+org\indigenous\pt\interceptors\CORSInterceptor.class
+org\indigenous\pt\service\DefaultProjectService.class
+org\indigenous\pt\entity\Project.class
+org\indigenous\pt\Application.class
+org\indigenous\pt\service\MariaDBDatabaseCreationService.class
+org\indigenous\pt\rest\ProjectController.class
+org\indigenous\pt\service\DefaultProjectService$1.class
+org\indigenous\pt\model\ProjectExists.class
+org\indigenous\pt\service\ProjectService.class
+org\indigenous\pt\model\Project.class
+org\indigenous\pt\repository\ProjectRepository.class

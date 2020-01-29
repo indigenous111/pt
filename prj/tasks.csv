@@ -1,0 +1,14 @@
+S.No.,Task,Status,Project
+1,Create Project,Done,org
+2,List Project,Done,org
+3,Create default database for project,Done,pt
+4,Create Organisation hierarchy,Not Started,org
+5,Create users for organisation,Not Started,org
+6,Create permissions,Not Started,org
+7,Create Roles,Not Started,org
+8,Assign roles to users,Not Started,org
+9,Create custom database for project,Not Started,pt
+10,Create custom schema for project,Not Started,pt
+11,Use schema in project,Not Started,pt
+12,Implement sso,Not Started,org
+13,Use roles in projects,Not Started,org
