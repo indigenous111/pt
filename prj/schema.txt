@@ -1,0 +1,22 @@
+prj
+
+ CREATE TABLE prj (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    sname VARCHAR(3) NOT NULL,
+    pdesc VARCHAR(1000));
+    
+ CREATE TABLE pschema (
+ 	id BIGINT AUTO_INCREMENT PRIMARY KEY,
+ 	name VARCHAR(50) NOT NULL,
+ 	dbs_type VARCHAR(50) NOT NULL,
+ 	dbs_host VARCHAR(100) NOT NULL,
+ 	dbs_port INT NOT NULL,
+ 	dbs_name VARCHAR(50) NOT NULL,
+ 	dbs_user VARCHAR(50) NOT NULL,
+ 	dbs_passwd VARCHAR(20));
+ 	
+ CREATE TABLE org (
+ 	id BIGINT AUTO_INCREMENT PRIMARY KEY,
+ 	name VARCHAR(50) NOT NULL,
+ 	parent_org BIGINT);
