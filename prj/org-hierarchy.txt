@@ -1,0 +1,13 @@
+Parent Org: Indigenous
+
+Indigenous Software Development: Department: Indigenous
+Indigenous Human Resources: Department: Indigenous
+Indigenous Sales: Department: Indigenous
+
+Indigenous E-commerce: Subsidiary: Indigenous
+IndiEcomm Sales: Department: Indigenous E-commerce
+IndiEcomm Human Resources: Department: Indigenous E-commerce
+
+Indigenous E-gov: Subsidiary: Indigenous
+IndiEgov Sales: Department: Indigenous E-gov
+IndiEgov Human Resources: Department: Indigenous E-gov
